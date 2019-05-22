@@ -111,8 +111,8 @@
 #define	PI_MAKER_EMBEST		2
 #define	PI_MAKER_UNKNOWN	3
 
-extern const char *piModelNames    [16] ;
-extern const char *piRevisionNames [16] ;
+extern const char *piModelNames    [17] ;
+extern const char *piRevisionNames [17] ;
 extern const char *piMakerNames    [16] ;
 extern const int   piMemorySize    [ 8] ;
 
