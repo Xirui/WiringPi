@@ -100,6 +100,8 @@
 #define	PI_MODEL_CM3		10
 #define	PI_MODEL_ZERO_W		12
 #define	PI_MODEL_3P 		13
+#define PI_MODEL_3AP 		14
+#define	PI_MODEL_CM3P		16
 
 #define	PI_VERSION_1		0
 #define	PI_VERSION_1_1		1
